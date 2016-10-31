@@ -1,0 +1,47 @@
+body {
+    font-family: 'Alegreya', serif;
+    background: #59363C;
+    padding: 0px;
+    margin: 0px;
+    box-sizing:border-box;
+    line-height: 1.5;
+}
+
+#container {
+    width: 500px;
+    min-height: 300px;
+    border-radius: 20px;
+    border: 5px solid #A6775B;
+    color: azure;
+    margin: 5px auto;
+    padding: 15px;
+    background: azure;
+    overflow: auto;
+}
+
+
+h2 {
+    font-family:'Alegreya', serif;
+}
+
+form {
+    display: inline-block;
+}
+
+#button{
+    display: inline-block;
+    height:20px;
+    width:70px;
+    background-color:#cc0000;
+    font-family:'Alegreya', serif;
+    font-weight:bold;
+    color:#ffffff;
+    border-radius: 5px;
+    text-align:center;
+    margin-top:2px;
+}
+
+.list {
+    font-family:'Alegreya', serif;
+    color:#cc0000;
+}
