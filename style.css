@@ -20,8 +20,9 @@ body {
 }
 
 
-h2 {
+h1, h2 {
     font-family:'Alegreya', serif;
+    color: black;
 }
 
 form {
